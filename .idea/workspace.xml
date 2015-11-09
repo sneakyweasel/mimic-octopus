@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="769f3a5a-0066-4852-a4c9-291afdb97561" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/external-scripts.json" afterPath="$PROJECT_DIR$/external-scripts.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/example.coffee" afterPath="$PROJECT_DIR$/scripts/example.coffee" />
     </list>
     <ignored path="mimic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,10 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="example.coffee" pinned="false" current-in-tab="false">
+      <file leaf-file-name="example.coffee" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/example.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.46189377">
               <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
@@ -56,12 +57,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="external-scripts.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="external-scripts.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/external-scripts.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15294118">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding />
+            <state vertical-scroll-proportion="-10.0">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <marker date="1447051009000" expanded="true" signature="0:305" placeholder="[...]" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,11 +121,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/node_modules/hubot-google-translate/src/google-translate.coffee" />
-        <option value="$PROJECT_DIR$/scripts/example.coffee" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/scripts/cleverbot.coffee" />
         <option value="$PROJECT_DIR$/hubot-scripts.json" />
         <option value="$PROJECT_DIR$/external-scripts.json" />
+        <option value="$PROJECT_DIR$/scripts/example.coffee" />
       </list>
     </option>
   </component>
@@ -346,7 +349,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1447051009000" expanded="true" signature="0:305" placeholder="[...]" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -389,7 +394,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1447051009000" expanded="true" signature="0:305" placeholder="[...]" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -473,14 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/example.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hubot-scripts.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -491,8 +490,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/external-scripts.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15294118">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1447051009000" expanded="true" signature="0:305" placeholder="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/example.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46189377">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
