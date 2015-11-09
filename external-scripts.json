@@ -11,5 +11,7 @@
   "hubot-shipit",
   "hubot-brain-inspect",
   "hubot-welcome",
-  "hubot-google-translate"
-]
+  "hubot-google-translate",
+  "hubot-plusplus",
+  "hubot-plusplus-userverify"
+  ]

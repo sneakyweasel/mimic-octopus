@@ -4,19 +4,34 @@
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/node_modules/hubot-google-translate/src/google-translate.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-welcome/src/welcome.js" />
-        <item url="file://$PROJECT_DIR$/scripts/example.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-welcome/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/src/plusplus.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/src/scorekeeper.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/test/scorekeeper.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/src/scorekeeper.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/src/plusplus.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/test/scorekeeper.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/scripts/inspect.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/index.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/scripts/example.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-google-translate/src/google-translate.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-welcome/src/welcome.js" />
-      <root url="file://$PROJECT_DIR$/scripts/example.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-welcome/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/src/plusplus.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/src/scorekeeper.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/test/scorekeeper.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/src/scorekeeper.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/src/plusplus.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/test/scorekeeper.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/scripts/inspect.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/index.js" />
     </CLASSES>
     <SOURCES />
   </library>
