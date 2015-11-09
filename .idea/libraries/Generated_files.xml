@@ -9,10 +9,13 @@
         <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/src/scorekeeper.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/test/scorekeeper.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-reddit/src/reddit.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-reddit/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-reddit/test/reddit_test.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/src/scorekeeper.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/src/plusplus.js" />
-        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/test/scorekeeper.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/scripts/inspect.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/test/scorekeeper.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/index.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/index.js" />
       </sourceFilesUrls>
@@ -26,10 +29,13 @@
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/src/scorekeeper.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/test/scorekeeper.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-reddit/src/reddit.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-reddit/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-reddit/test/reddit_test.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/src/scorekeeper.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/src/plusplus.js" />
-      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/test/scorekeeper.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/scripts/inspect.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/test/scorekeeper.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/index.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/index.js" />
     </CLASSES>
