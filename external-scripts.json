@@ -13,5 +13,6 @@
   "hubot-welcome",
   "hubot-google-translate",
   "hubot-plusplus",
-  "hubot-plusplus-userverify"
+  "hubot-plusplus-userverify",
+  "hubot-clever"
   ]
