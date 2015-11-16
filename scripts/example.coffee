@@ -10,13 +10,11 @@
 
 module.exports = (robot) ->
 
-  robot.hear /octopus/i, (res) ->
-    res.send "Salut, salut!"
-
   robot.respond /open the (.*) doors/i, (res) ->
     doorType = res.match[1]
     if doorType is "pod bay"
-      res.reply "I'm afraid I can't let you do that. https://www.youtube.com/watch?v=dSIKBliboIo"
+      res.send "I'm afraid I can't let you do that."
+      res.send "https://www.youtube.com/watch?v=dSIKBliboIo"
     else
       res.reply "Opening #{doorType} doors"
   #
@@ -32,9 +30,3 @@ module.exports = (robot) ->
   #   res.send "#{res.message.text}? That's a Paddlin'"
   #
   #
-  enterReplies = ['Hi', 'Target Acquired', 'Firing', 'Hello friend.', 'Gotcha', 'I see you']
-  leaveReplies = ['Are you still there?', 'Target lost', 'Searching']
-  robot.enter (res) ->
-    res.send res.random enterReplies
-  robot.leave (res) ->
-    res.send res.random leaveReplies

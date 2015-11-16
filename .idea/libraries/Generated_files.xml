@@ -2,23 +2,34 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/scripts/inspect.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/test/scorekeeper.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-xkcd/lib/xkcd.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-reaction/src/hubot-reaction.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-reaction/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-robowhois/scripts/robowhois.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-reaction/test/hubot-reaction_test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-robowhois/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-bitcoin/src/bitcoin.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-4chan/src/4chan.js" />
+        <item url="file://$PROJECT_DIR$/scripts/example.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-4chan/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-4chan/test/4chan_test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-sentiment/src/sentiment.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-qr/test/hello-world_test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-sentiment/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-sentiment/test/sentiment-test.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-google-translate/src/google-translate.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-welcome/src/welcome.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-welcome/index.js" />
-        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/src/plusplus.js" />
-        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/src/scorekeeper.js" />
-        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/test/scorekeeper.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-sentimental/src/sentimental.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/hubot-sentimental/index.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-reddit/src/reddit.js" />
-        <item url="file://$PROJECT_DIR$/node_modules/hubot-reddit/index.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-reddit/test/reddit_test.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/src/scorekeeper.js" />
         <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/src/plusplus.js" />
-        <item url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/scripts/inspect.js" />
-        <item url="file://$PROJECT_DIR$/scripts/example.js" />
-        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/test/scorekeeper.js" />
-        <item url="file://$PROJECT_DIR$/scripts/example.js" />
-        <item url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/index.js" />
-        <item url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/index.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -28,23 +39,43 @@
       <root url="file://$PROJECT_DIR$/scripts/cleverbot.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/test/scorekeeper.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/index.js" />
-      <root url="file://$PROJECT_DIR$/node_modules/hubot-google-translate/src/google-translate.js" />
-      <root url="file://$PROJECT_DIR$/node_modules/hubot-welcome/src/welcome.js" />
-      <root url="file://$PROJECT_DIR$/node_modules/hubot-welcome/index.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/src/plusplus.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/src/scorekeeper.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus/test/scorekeeper.js" />
-      <root url="file://$PROJECT_DIR$/node_modules/hubot-reddit/src/reddit.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-reddit/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-reddit/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-qr/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-qr/src/qr.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-qr/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-qr/src/qr.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/scripts/inspect.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/test/scorekeeper.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-xkcd/lib/xkcd.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-reaction/src/hubot-reaction.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-reaction/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-robowhois/scripts/robowhois.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-reaction/test/hubot-reaction_test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-robowhois/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-bitcoin/src/bitcoin.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-4chan/src/4chan.js" />
+      <root url="file://$PROJECT_DIR$/scripts/example.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-4chan/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-4chan/test/4chan_test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-sentiment/src/sentiment.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-qr/test/hello-world_test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-sentiment/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-sentiment/test/sentiment-test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-google-translate/src/google-translate.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-welcome/src/welcome.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-welcome/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-sentimental/src/sentimental.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-sentimental/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/hubot-reddit/src/reddit.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-reddit/test/reddit_test.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/src/scorekeeper.js" />
       <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/src/plusplus.js" />
-      <root url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/scripts/inspect.js" />
-      <root url="file://$PROJECT_DIR$/scripts/example.js" />
-      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/test/scorekeeper.js" />
-      <root url="file://$PROJECT_DIR$/scripts/example.js" />
-      <root url="file://$PROJECT_DIR$/node_modules/hubot-brain-inspect/index.js" />
-      <root url="file://$PROJECT_DIR$/node_modules/hubot-plusplus-userverify/index.js" />
     </CLASSES>
     <SOURCES />
   </library>

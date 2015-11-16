@@ -6,6 +6,8 @@
   "description": "Recursive Mimic I.A.",
   "dependencies": {
     "hubot": "^2.16.0",
+    "hubot-4chan": "0.0.1",
+    "hubot-bitcoin": "^1.0.3",
     "hubot-brain-inspect": "0.0.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.3",
@@ -14,13 +16,19 @@
     "hubot-heroku-keepalive": "^1.0.0",
     "hubot-maps": "0.0.2",
     "hubot-pugme": "^0.1.0",
+    "hubot-qr": "0.0.2",
+    "hubot-reaction": "0.0.6",
     "hubot-reddit": "0.0.1",
     "hubot-redis-brain": "0.0.3",
+    "hubot-robowhois": "0.0.2",
     "hubot-rocketchat": "0.0.18",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
+    "hubot-sentiment": "^1.2.6",
+    "hubot-sentimental": "^1.0.7",
     "hubot-shipit": "^0.2.0",
-    "hubot-welcome": "0.0.3"
+    "hubot-welcome": "0.0.3",
+    "hubot-xkcd": "0.0.3"
   },
   "engines": {
     "node": "0.10.x"
